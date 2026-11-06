@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/Somya6422/Connect_4_Game/releases/latest">
+  <a href="https://github.com/somyaranjansahoo6422/Connect_4_Game/releases/latest">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github" alt="Download Game">
   </a>
 </p>
