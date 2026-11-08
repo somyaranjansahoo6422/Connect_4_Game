@@ -1,3 +1,6 @@
 dist/ 
 build/ 
 *.spec 
+__pycache__/
+connect4_save.json
+connect4_stats.json
